@@ -1,4 +1,5 @@
 # IEF
 Inventory Exploit Fixer
 
-Fixes inventory exploits allowing users to interact with stuff then move around
+## What it does ##  
+This is simply meant to prevent players from walking around or interacting with things when they **should** be in a GUI/Menu of some sort.
